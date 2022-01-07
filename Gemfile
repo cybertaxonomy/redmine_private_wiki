@@ -3,7 +3,7 @@ source :rubygems
 gem 'protected_attributes_continued'
 
 group :development, :test do
-  gem "simplecov", "~> 0.17.0"
+  gem "simplecov", "~> 0.18.5"
   gem 'simplecov-rcov'
   gem 'factory_girl_rails'
   gem 'test-unit'
